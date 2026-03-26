@@ -1,2 +1,2 @@
 # WhatsApp-OSINT-
-Digital forensics case study OSINT investigation 
+Digital forensics case study in OSINT investigation 
