@@ -1,3 +1,6 @@
 [submodule "tools/sherlock"]
 	path = tools/sherlock
 	url = https://github.com/sherlock-project/sherlock.git
+[submodule "tools/testdisk"]
+	path = tools/testdisk
+	url = https://github.com/cgsecurity/testdisk.git
